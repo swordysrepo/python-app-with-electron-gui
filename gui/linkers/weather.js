@@ -15,7 +15,7 @@ function get_weather() {
 
 
   pyshell.on('message', function(message) {
-    swal(message);
+    swal(message+"asdddddddddddddddddddddddddddddddddddddd","second line");
   })
   document.getElementById("city").value = "";
 }

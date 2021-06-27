@@ -1,0 +1,169 @@
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/adasdas/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:list index out of range
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/asddasdas/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:x is : asdadadsasdasddasdas 404asdadsadsdasdas
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:list index out of range
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/asddasdasads/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:pased is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:list index out of range
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/sdasdasd/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:pased is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:list index out of range
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/adsasd/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:list index out of range
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/asdasdasd/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:list index out of range
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/asdasdads/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:local variable 'weather' referenced before assignment
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/asdasdadsdas/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:local variable 'weather' referenced before assignment
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/sdsdadasdasds/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:local variable 'weather' referenced before assignment
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/adsasd/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:exception thrown.
+ERROR:root:local variable 'weather' referenced before assignment
+ERROR:root:error happened when getting the weather
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/adsasd/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/hjhkhk/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/ghjgghgh/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/ghgjhggh/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/ghhjggj/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/dasdadsads/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/dasdsdasd/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations//forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/sdasdasddas/forecasts/latest HTTP/1.1" 404 None
+INFO:root:reply is <Response [404]>
+INFO:root:passed is 404 error
+INFO:root:content is b'<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n\n<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">\n\n<head>\n  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />\n  <title>The page you were looking for doesn\'t exist (404)</title>\n\t<style type="text/css">\n\t\tbody { background-color: #fff; color: #666; text-align: center; font-family: arial, sans-serif; }\n\t\tdiv.dialog {\n\t\t\twidth: 25em;\n\t\t\tpadding: 0 4em;\n\t\t\tmargin: 4em auto 0 auto;\n\t\t\tborder: 1px solid #ccc;\n\t\t\tborder-right-color: #999;\n\t\t\tborder-bottom-color: #999;\n\t\t}\n\t\th1 { font-size: 100%; color: #33f; line-height: 1.5em; }\n\t\ta { font-weight: bold; }\n\t</style>\n</head>\n\n<body>\n  <!-- This file lives in public/404.html -->\n  <div class="dialog">\n    <h1>Weather-Forecast.com - global weather source.</h1>\n    <p>You may have mistyped the address <br/>or the page may have moved.</p>\n\t<p>\n\t\tGo to the <a href="/">main page</a> to access the forecasts and more.\n\t</p>\n  </div>\n</body>\n</html>'
+INFO:root:file is called.
+INFO:root:get weather function is called.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.weather-forecast.com:443
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/orlando/forecasts/latest HTTP/1.1" 301 None
+DEBUG:urllib3.connectionpool:https://www.weather-forecast.com:443 "GET /locations/Orlando/forecasts/latest HTTP/1.1" 200 None
+INFO:root:reply is <Response [200]>
